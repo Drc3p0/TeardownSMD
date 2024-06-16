@@ -14,12 +14,12 @@ New to SMD soldering?  You'll want to practice on something much more reasonable
 https://www.youtube.com/watch?v=8Q6YNmBKjiU
 
 ### Tools Needed:
-Fine-tip soldering iron
-Solder
-Plenty o' flux
-Fine-tip tweezers
-Probably a magnifying device of some kind
-Spare dose of sanity (or lack thereof)
+- Fine-tip soldering iron
+- Solder
+- Plenty o' flux
+- Fine-tip tweezers
+- Probably a magnifying device of some kind
+- Spare dose of sanity (or lack thereof)
 
 We would say use a hot plate or heat gun, but that takes too much of the challenge out of it ;)
 

@@ -28,9 +28,10 @@ We would say use a hot plate or heat gun, but that takes too much of the challen
 You may need to look at the Datasheets to see what the correct orientation of the LEDs looks like.. 
 Refer to the [Components list](https://github.com/Drc3p0/TeardownSMD/blob/main/Components.md) for links. 
 
+This SMD LED polarity guide might be helpful too: https://lighthouseleds.com/blog/polarity-guide-of-0402-0603-0805-1206-and-most-all-smd-leds.html 
+
 ### Firmware
 
 Code for the Attiny is the same as the OG SMD Challenge boards: 
 
-https://github.com/aspro648/KiCad/tree/master/projects/Attiny/AttinyChallengeMisery/firmware 
-
+https://raw.githubusercontent.com/aspro648/KiCad/master/projects/Attiny/Attiny85Challenge/firmware/SMD_challenge_Cylon/SMD_challenge_Cylon.ino

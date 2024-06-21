@@ -35,3 +35,5 @@ This SMD LED polarity guide might be helpful too: https://lighthouseleds.com/blo
 Code for the Attiny is the same as the OG SMD Challenge boards: 
 
 https://raw.githubusercontent.com/aspro648/KiCad/master/projects/Attiny/Attiny85Challenge/firmware/SMD_challenge_Cylon/SMD_challenge_Cylon.ino
+
+Instructions for using the Sparkfun tiny programmer for uploading code to the Attiny: https://docs.google.com/document/d/1_V8jWTGxLiAL2kk-nU6e-c7un_Uen9MeraUU5jMNWxs/edit?usp=sharing 
